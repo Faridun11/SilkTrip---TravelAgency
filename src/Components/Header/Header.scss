@@ -1,0 +1,16 @@
+.header{
+    a {
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: bolder;
+        letter-spacing: 1px;
+
+        &.active {
+            color: #115293;
+        }
+    }
+
+    .logo {
+        font-size: 18px;
+    }
+}

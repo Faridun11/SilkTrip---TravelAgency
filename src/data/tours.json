@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1",
+    "title": "Individual Cultural Tour in 4 cities of Uzbekistan",
+    "price": 649,
+    "duration": "7 Days / 6 Nights",
+    "image": "/all-city.jpg",
+    "overview": "Experience a unique cultural journey through Uzbekistan. Explore Tashkent’s historical sites, including the famous Khast-Imam Complex and Chorsu Bazaar. Discover the beauty of the Chimgan Mountains and Amirsoy Resort. Travel to Samarkand on a high-speed train and visit iconic landmarks such as Registan Square and Gur-e-Amir Mausoleum. Enjoy optional experiences like pottery classes and visiting a local Uzbek family.",
+    "included": [
+      "✅ Local guides in Tashkent, Samarkand, and Bukhara",
+      "✅ Private transportation within each city",
+      "✅ Train tickets"
+    ],
+    "notIncluded": [
+      "❌ International flights",
+      "❌ Lunch & dinner",
+      "❌ Accommodation",
+      "❌ Entrance tickets"
+    ],
+    "additional": [
+      "Train tickets are included in the price for all 4 cities. Before booking, we will communicate with you — in some cases, you may need to book them yourself and we will deduct that from your tour fee. Same with hotels — we provide recommendations that you can book, or we can book them for you!"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Tashkent City Tour",
+        "activities": [
+          "Panoramic view from 17th floor",
+          "Khast-Imam Complex",
+          "Chorsu Bazaar",
+          "Kukeldash Madrasah",
+          "Amir Timur Square",
+          "Lunch at Beshqozon Plov Center + Tashkent TV Tower",
+          "Independence Square",
+          "Metro stations (most beautiful stations)",
+          "Museum of Applied Arts",
+          "Magic City"
+        ]
+      },
+      {
+        "day": "Day 2",
+        "title": "Tashkent Mountain Tour",
+        "activities": [
+          "Amirsoy Ski Resort (skiing, snowboarding, cable car ride)",
+          "Chimgan Mountains (optional)",
+          "Charvak Reservoir (optional, depends on season)"
+        ]
+      },
+      {
+        "day": "Day 3",
+        "title": "Samarkand City Tour",
+        "activities": [
+          "Gur-e-Amir Mausoleum",
+          "Registan Square",
+          "Bibi-Khanym Mosque",
+          "Explore the local Siab Bazaar",
+          "Hazrat Khizr Mosque",
+          "Lunch at selected local restaurant",
+          "Shahi-Zinda Necropolis",
+          "Ulugh Beg Observatory"
+        ]
+      },
+      {
+        "day": "Day 4",
+        "title": "Samarkand City Tour – Day 2",
+        "activities": [
+          "Imam Al-Bukhari Mosque",
+          "Afrosiyob Museum & Ancient Settlement",
+          "Prophet Daniel Mausoleum",
+          "Konigil Paper Mill (traditional paper making)",
+          "Samarkand Silk Carpet Factory",
+          "Eternal City at Samarkand Silk Road"
+        ]
+      },
+      {
+        "day": "Day 5",
+        "title": "Bukhara City Tour",
+        "activities": [
+          "Lyabi-Hauz Ensemble",
+          "Magoki Attori Mosque",
+          "Mir-i Arab Madrasah",
+          "Abdulazizkhan Madrasah",
+          "Poi Kalon Complex",
+          "Nadir Divanbegi Madrasah",
+          "Trading Domes"
+        ]
+      },
+      {
+        "day": "Day 6",
+        "title": "Bukhara City Tour – Day 2",
+        "activities": [
+          "Ark Fortress",
+          "Bolo Hauz Mosque",
+          "Samanid Mausoleum",
+          "Chor Minor",
+          "Sitorai Mohi Hosa"
+        ]
+      },
+      {
+        "day": "Day 7",
+        "title": "Khiva",
+        "activities": [
+          "Kalta Minor Minaret",
+          "Muhammad Amin Khan Madrasah",
+          "Kunya Ark Fortress",
+          "Islam Khoja Minaret & Madrasah",
+          "Juma Mosque",
+          "Tosh Hovli Palace",
+          "Walk on Itchan Kala Walls"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Uzbekistan City Tours",
+    "price": 99,
+    "duration": "1 Day / 1 Night",
+    "image": "/city_tour.jpg",
+    "overview": "This guided city tour includes 1 or 2 days in each city. Here are the plans for different cities! You can choose and book — let us know for which city, how many days, and how many people. Price is given for 1 day. Discount available for more than 2 people and for 2 days.",
+    "included": [
+      "✅ Train tickets",
+      "✅ Professional English-speaking guide",
+      "✅ All domestic transport",
+      "✅ Pick-up from airports, train stations, or hotel, with drop-off"
+    ],
+    "notIncluded": [
+      "❌ Meals",
+      "❌ Personal expenses",
+      "❌ Accommodation"
+    ],
+    "itinerary": [
+      {
+        "title": "Tashkent City Tour",
+        "day": "Option 1",
+        "activities": [
+          "Panoramic view from 17th floor",
+          "Khast-Imam Complex",
+          "Chorsu Bazaar",
+          "Kukeldash Madrasah",
+          "Amir Timur Square",
+          "Lunch at Beshqozon Plov Center + Tashkent TV Tower",
+          "Independence Square",
+          "Metro stations (most beautiful stations)",
+          "Museum of Applied Arts",
+          "Magic City"
+        ]
+      },
+      {
+        "day": "Option 2",
+        "title": "Samarkand City Tour",
+        "activities": [
+          "Gur-e-Amir Mausoleum",
+          "Registan Square",
+          "Bibi-Khanym Mosque",
+          "Explore the local Siab Bazaar",
+          "Hazrat Khizr Mosque",
+          "Lunch at selected local restaurant",
+          "Shahi-Zinda Necropolis",
+          "Ulugh Beg Observatory"
+        ]
+      },
+      {
+        "title": "Shahrisabz Day Trip from Samarkand",
+        "day": "Option 3",
+        "activities": [
+          "Departure from Samarkand through scenic landscapes",
+          "Ak-Saray Palace Ruins",
+          "Dorut Tilavat Complex",
+          "Amir Timur Monument",
+          "Chubin Madrasah",
+          "Blue Dome & Mosque",
+          "Lunch on the way – famous Tanduri Lamb",
+          "Explore lively local market (souvenirs, crafts, delicacies)",
+          "Return to Samarkand"
+        ]
+      },
+      {
+        "day": "Option 4",
+        "title": "Bukhara City Tour",
+        "activities": [
+          "Lyabi-Hauz Ensemble",
+          "Magoki Attori Mosque",
+          "Mir-i Arab Madrasah",
+          "Abdulazizkhan Madrasah",
+          "Poi Kalon Complex",
+          "Nadir Divanbegi Madrasah",
+          "Trading Domes"
+        ]
+      },
+      {
+        "day": "Option 5",
+        "title": "Khiva",
+        "activities": [
+          "Kalta Minor Minaret",
+          "Muhammad Amin Khan Madrasah",
+          "Kunya Ark Fortress",
+          "Islam Khoja Minaret & Madrasah",
+          "Juma Mosque",
+          "Tosh Hovli Palace",
+          "Walk on Itchan Kala Walls"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mountain Tours: Tashkent and Samarkand",
+    "price": 149,
+    "duration": "1 Day for 1–3 people",
+    "image": "/samarkand-travel.jpg",
+    "overview": "Enjoy a refreshing day in the mountains in Tashkent and Samarkand. Explore the Chimgan and Amirsoy resorts, take a cable car ride, hike or ski, and enjoy the beautiful nature of Uzbekistan or ride horses,donkey cook natioanal dishes in mountains of Samarkand everything well organised. Price here given for up to 3 people Discount available for more than 3 people. Once you have booked the tour and choose the city you can go ahead for negotiation!",
+    "included": [
+      "✅ Private transport from cities to mountains",
+      "✅ Professional local guide"
+    ],
+    "notIncluded": [
+      "❌ Lunch and entrance fees",
+      "❌ Water jets or cable car fees",
+      "❌ Horse riding"
+    ],
+    "itinerary": [
+      {
+        "day": "Option 1",
+        "title": "Mountain Escape Tashkent",
+        "activities": [
+          "Morning departure from Tashkent",
+          "Visit Chimgan Mountains",
+          "Continue to Amirsoy Resort",
+          "Cable car ride to the peak",
+          "Optional: Skiing / snowboarding / hiking",
+          "Return in the evening"
+        ]
+      },
+      {
+        "day": "Option 2",
+        "title": "Mountain Escape to Samarkand.",
+        "activities": [
+          "Morning departure from Samarkand",
+          "Stop at a local bazaar for picnic supplies",
+          "Arrive at the village near Hazrat Daud Cave",
+          "Ascend the mountain by horse, donkey, or trek up 1527 stairs",
+          "Reach the summit and visit the mosque",
+          "Enjoy panoramic views and take photos/videos",
+          "Riding horse in mountains",
+          "Explore Hazrat Daud Cave and learn about its legends",
+          "See handprints believed to belong to Prophet Daud",
+          "Enjoy a traditional lunch prepared by a local chef",
+          "Shop at the village market for souvenirs",
+          "Return to Samarkand by 17:00"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Tajikistan, Seven Lakes",
+    "price": 165,
+    "duration": "1 Day",
+    "image": "/tjk2.jpg",
+    "overview": "Travel across the border to the stunning Fann Mountains in Tajikistan and discover the legendary Seven Lakes. Perfect for nature lovers and hikers looking for a breathtaking day trip. Prices are per person. Discount available for more than 2 people.If you are a group, couple or family, we have amazing offers — kindly send us your information via WhatsApp.",
+    "included": [
+      "✅ Border crossing assistance",
+      "✅ Transport from Samarkand or Panjakent",
+      "✅ Local guide in Tajikistan"
+    ],
+    "notIncluded": [
+      "❌ Visa fees (if required)",
+      "❌ Meals",
+      "❌ Personal costs"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Seven Lakes Adventure from Samarkand",
+        "activities": [
+          "Depart Samarkand by private car or guide",
+          "Drive to Jartepa border (~1 hour)",
+          "Border crossing on foot (30–60 min)",
+          "Meet local Tajik driver in Penjikent",
+          "Quick visit to Penjikent Bazaar or Rudaki Museum",
+          "Drive to Seven Lakes (Haft Kul) via Shing Valley",
+          "Visit Mijgon, Soya, Hushyor, Nofin, Khurdak, Marguzor, Hazorchashma Lakes",
+          "Enjoy photo stops, short hikes, and picnic lunch by a lake (Marguzor or Hazorchashma)",
+          "Return to Jartepa border and cross back to Uzbekistan",
+          "Transfer to hotel in Samarkand and rest"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Walking Tours in Every City of Uzbekistan (Solo & Groups)",
+    "price": "50",
+    "duration": "1 Day",
+    "image": "/valking.JPG",
+    "overview": "Tours in each city start from a meeting point. One day before the tour, our guides will contact you and provide details. You may ask any questions you’re interested in. Prices start from $50 per person. For couples or pairs: $80. Discount available for more than 2 people. If you're okay joining a group of random people we give you amazing offers.",
+    "included": [
+      "✅ Pick-up and drop-off (with prior agreement)",
+      "✅ Experienced guide service",
+      "✅ Bottled water during the tour"
+    ],
+    "notIncluded": [
+      "❌ Meals",
+      "❌ Personal costs"
+    ],
+    "itinerary": [
+      {
+        "day": "1 Day",
+        "title": "Tours Available in Tashkent, Samarkand, Bukhara, Khiva",
+        "activities": [
+          "We will provide the itinerary after you choose your city or you can see that on the page of Uzbekistan City Tours."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Cooking&Baking Materclass of Uzbek natioal dishes(Samarkand)",
+    "price": "120",
+    "duration": "1 Day for 1–4 people",
+    "image": "/cooking.jpg",
+    "overview": "A hands-on cultural and culinary tour outside Samarkand. Visit the famous Bagizagan Wine Factory, shop for fresh groceries at a local market, and head to a village house to learn traditional bread baking and plov cooking from a local chef. Ideal for food lovers and culture seekers. Includes hotel pick-up and return to Samarkand by 17:00. \n  \n Additional: We have available local houses to stay in you can book that with agreement by us feel free to conversation we give best offers always :) ",
+    "included": [
+      "✅ Pick-up and drop-off (with prior agreement)",
+      "✅ Visit to Bagizagan Wine Factory",
+      "✅ Hands-on cooking experience with local chef"
+    ],
+    "notIncluded": [
+      "❌ Personal expenses",
+      "❌ Groceries to purchase unless we had agreement",
+      "❌ Wine tasting fees (optional)"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Bagizagan Wine & Culinary Adventure",
+        "activities": [
+          "Pick-up from your hotel in Samarkand",
+          "Drive 30 minutes out of the city towards Bagizagan",
+          "Visit and explore the Bagizagan Wine Factory",
+          "Shop for groceries at a local market",
+          "Arrive at a traditional village house",
+          "Meet the chef, baker, and host family",
+          "Prepare ingredients and cook plov with the chef",
+          "Make dough and bake traditional bread",
+          "Share the plov meal together",
+          "Wash and wrap baked bread to take home as a gift",
+          "Relax and enjoy free time in the village",
+          "Return to Samarkand city center by 17:00"
+        ]
+      }
+    ]
+  },
+   {
+    "id": "7",
+    "title": "Photo shooting in must see places of Samarkand",
+    "price": "60",
+    "duration": "1 Day",
+    "image": "/registan_tour.jpg",
+    "overview": "As everyone you may like to have quality and unforgattable pictures for your portfolio, social media accounts or others — what if they are in must-see places under UNESCO heritage with national clothes? \n We do not mind if you bring your own clothes! Our professional cameras are always ready for you.\nMeeting point: Registan Square.\n\nAdditional: You may have pictures with different clothes in different locations, but please let us know in advance to avoid misunderstandings with cost and program. Thank you!",
+    "included": [
+      "✅ Pick-up and drop-off (with prior agreement)",
+      "✅ Professional cameraman service",
+      "✅ National dress by your choice and hundreds of picture and videos"
+    ],
+    "notIncluded": [
+      "❌ Clothes more than 1(unless we have agreement!)"
+    ],
+    "itinerary": [
+      {
+        "day": "3 hours",
+        "title": "Package Available in Samarkand",
+        "activities": [
+          ""
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+.about-section {
+  padding: 4rem 1rem;
+  background-color: #e7f2ef56;
+
+  .about-title {
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2.25rem;
+    color: #222;
+  }
+
+  .about-text {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #444;
+    text-align: justify;
+    margin-bottom: 2rem;
+  }
+
+  .owner-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 1rem;
+
+    .owner-avatar {
+      width: 72px;
+      height: 72px;
+      // border: 2px solid #1976d2;
+      border: 2px solid #4666a4;
+      transition: transform 0.3s;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+
+  .section {
+    margin-top: 3rem;
+
+    .section-title {
+      font-weight: 600;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      // color: #1976d2;
+      color: #4666a4;
+    }
+
+    .section-text {
+      color: #555;
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+
+    .section-list {
+      padding-left: 1rem;
+      color: #444;
+      line-height: 1.8;
+
+      li {
+        margin-bottom: 0.5rem;
+        font-size: 1rem;
+      }
+    }
+  }
+
+  .stats {
+    margin-top: 3rem;
+
+    .stat-box {
+      text-align: center;
+      padding: 1.5rem;
+      border-radius: 12px;
+      background-color: white;
+      // color: #1976d2;
+      color: #4666a4;
+      font-weight: 600;
+      transition: box-shadow 0.3s;
+
+      &:hover {
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      }
+    }
+  }
+
+  .map-section {
+    margin-top: 3rem;
+
+    .map-box {
+      margin-top: 1rem;
+      border-radius: 12px;
+      overflow: hidden;
+      background-color: #e9ecef;
+
+      iframe {
+        width: 100%;
+        height: 300px;
+        border: 0;
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    .owner-info {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .stats {
+      .stat-box {
+        padding: 1rem;
+      }
+    }
+  }
+}

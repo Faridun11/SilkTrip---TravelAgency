@@ -1,0 +1,96 @@
+.active-videos {
+  padding: 4rem 1rem;
+  background-color: #f8f9fa;
+
+  .container {
+    max-width: 1300px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .video-swiper {
+    .swiper-slide {
+      transition: all 0.4s ease;
+      transform: scale(0.85);
+      opacity: 0.4;
+      filter: blur(2px);
+      margin-bottom: 40px;
+    }
+
+    .swiper-slide-visible {
+      opacity: 1;
+      filter: blur(0);
+    }
+
+    .swiper-slide-active {
+      transform: scale(1);
+      z-index: 10;
+      opacity: 1;
+      filter: blur(0);
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+      color: #1976d2; // Navigatsiya tugmalari uchun rang
+      transition: color 0.3s;
+
+      &:hover {
+        color: #155a8a; // Hover effekti
+      }
+    }
+
+    .swiper-pagination {
+      bottom: 10px; // Pagination joylashuvi
+      .swiper-pagination-bullet {
+        background: #1976d2; // Pagination nuqtalari
+        opacity: 0.7;
+
+        &.swiper-pagination-bullet-active {
+          background: #155a8a; // Faol nuqta
+        }
+      }
+    }
+  }
+
+  .video-card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+
+    &:hover {
+      transform: translateY(-5px); // Hover effekti
+    }
+
+    .video-frame {
+      position: relative;
+      width: 100%;
+      height: 400px;
+      padding-top: 56.25%; // 16:9 ratio
+      iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+        border-radius: 16px 16px 0 0; // Yuqori burchaklarni yumshatish
+      }
+    }
+
+    h3 {
+      padding: 1rem;
+      font-size: 1rem;
+      font-weight: 500;
+      text-align: center;
+    }
+  }
+}
