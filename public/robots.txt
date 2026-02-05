@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://silkroadheritage.uz/sitemap.xml
+Sitemap: https://guideaziz.uz/sitemap.xml
