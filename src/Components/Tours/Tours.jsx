@@ -19,15 +19,15 @@ const Tours = () => {
     <div className="tours">
       <Helmet>
         <title>
-          Samarkand & Bukhara Tours – Silk Trip | Local Travel Experts
+          GuideAziz | Uzbekistan Tour Guide & Silk Road Travel
         </title>
         <meta
           name="description"
-          content="Explore Samarkand, Bukhara, Tashkent & Khiva with local guides. Add mountain trips, cooking classes, walking tours and Tajikistan’s 7 Lakes — from just $50."
+          content="Explore Samarkand, Bukhara, Tashkent & Khiva with local guides. Add mountain trips, cooking classes, walking tours and Tajikistan’s 7 Lakes — from just $100."
         />
         <meta
           name="keywords"
-          content="Silk Road tour, 7 Lakes from Samarkand, Iskanderkul lake, Uzbekistan guided tours, Bukhara sightseeing, Samarkand walking tour, Amirsoy ski resort"
+          content="GuideAziz tour, 7 Lakes from Samarkand, Iskanderkul lake, Uzbekistan guided tours, Bukhara sightseeing, Samarkand walking tour, Amirsoy ski resort"
         />
       </Helmet>
 
