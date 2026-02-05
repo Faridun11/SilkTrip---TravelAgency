@@ -40,10 +40,11 @@ const About = () => {
             <strong>
               {" "}
               <a
-                // target="_blank"
+                target="_blank"
+                href="https://www.instagram.com/azizguideuz/"
                 style={{ textDecoration: "none", color: "#4666a4", cursor: "pointer" }}
               >
-                @SilkTrip
+                @GuideAziz
               </a>{" "}
             </strong>{" "}
             travel agency. For the last five years, I’ve been organizing tailor-made tours all

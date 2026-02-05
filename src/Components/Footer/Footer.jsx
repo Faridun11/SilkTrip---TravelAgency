@@ -37,7 +37,7 @@ const Footer = () => {
         {/* Logo & Description */}
         <Box>
           <Typography variant="h6" sx={{ fontWeight: "bold", mb: 1 }}>
-            SilkTrip
+            GuideAziz
           </Typography>
           <Typography variant="body2" sx={{ maxWidth: 300, color: "#333" }}>
             the Silk Trip's historical wonders with us. Professional guides, cultural adventures, and lifetime memories await.
@@ -89,20 +89,21 @@ const Footer = () => {
           </MuiLink>
           <MuiLink
             href="https://wa.me/998901775770"
+            target="_blank"
             underline="hover"
             sx={{ display: "block", color: "#444", fontSize: 14 }}
           >
             💬 WhatsApp: +998 90 177 57 70
           </MuiLink>
           <MuiLink
-            href="mailto:info@silktrip.uz"
+            href="mailto:aziztheuzbeki@gmail.com"
             underline="hover"
             sx={{ display: "block", color: "#444", fontSize: 14 }}
           >
-            ✉️ info@silktrip.uz
+            ✉️ Aziztheuzbeki@gmail.com
           </MuiLink>
           <MuiLink
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/azizguideuz/"
             target="_blank"
             rel="noopener noreferrer"
             underline="hover"
@@ -112,7 +113,7 @@ const Footer = () => {
             Guide Azizbek
           </MuiLink>
           <MuiLink
-            href="https://t.me/Azizbek2025g"
+            href="https://t.me/oasis2025"
             target="_blank"
             rel="noopener noreferrer"
             underline="hover"
@@ -125,7 +126,7 @@ const Footer = () => {
       </Stack>
 
       {/* Social Icons */}
-      <Stack direction="row" spacing={2} justifyContent="center" sx={{ mt: 4 }}>
+      {/* <Stack direction="row" spacing={2} justifyContent="center" sx={{ mt: 4 }}>
         <IconButton
           component="a"
           // href="/"
@@ -162,11 +163,11 @@ const Footer = () => {
         >
           <Telegram />
         </IconButton>
-      </Stack>
+      </Stack> */}
 
       {/* Footer Bottom */}
       <Typography variant="body2" align="center" sx={{ mt: 4, color: "#666" }}>
-        © {new Date().getFullYear()} SilkTrip | Developed by{" "}
+        © {new Date().getFullYear()} GuideAziz | Developed by{" "}
         <a
           style={{ color: "#4666a4" }}
           target="_blank"
