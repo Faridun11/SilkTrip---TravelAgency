@@ -7,7 +7,7 @@ import SingleTours from "./Pages/SingleTour/SingleTours";
 import Tours from "./Components/Tours/Tours"
 import Contact from "./Pages/Contact/Contact"
 import Preview from "./Pages/Preview/Preview";
-import About from "./Pages/About/About";
+import Aboout from "./Pages/About/About";
 import ScrollTop from "./Components/ScrollTop/ScrollTop";
 
 function App() {
