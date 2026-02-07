@@ -16,7 +16,7 @@ const About = () => {
   return (
     <Box className="about-section">
       <Helmet>
-        <title>AAAbout Guide Aziz – Your Guide to Uzbekistan</title>
+        <title>About Guide Aziz – Your Guide to Uzbekistan</title>
         <meta
           name="description"
           content="Guide Aziz offers authentic Uzbekistan travel experiences. Discover historic landmarks, nature escapes, and cross-border trips to Tajikistan’s 7 Lakes and Fann Mountains."
@@ -31,7 +31,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <Typography variant="h4" className="about-title">
-            AAAbout Our Agency
+            About Our Agency
           </Typography>
 
           <Typography variant="body1" className="about-text">
