@@ -31,7 +31,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <Typography variant="h4" className="about-title">
-            About Our Agency
+            AAAbout Our Agency
           </Typography>
 
           <Typography variant="body1" className="about-text">
