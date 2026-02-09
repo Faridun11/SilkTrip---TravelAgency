@@ -148,6 +148,70 @@
     ]
   },
   {
+    "id": "5",
+    "title": "Walking Tours in Every City of Uzbekistan (Solo & Groups)",
+    "price": 229,
+    "duration": "1 Day",
+    "image": "/valking.JPG",
+    "overview": "Tours in each city start from a meeting point. One day before the tour, our guides will contact you and provide details. You may ask any questions you’re interested in. Prices start from $50 per person. For couples or pairs: $80. Discount available for more than 2 people. If you're okay joining a group of random people we give you amazing offers.",
+    "included": [
+      "✅ Pick-up and drop-off (with prior agreement)",
+      "✅ Experienced guide service",
+      "✅ Bottled water during the tour"
+    ],
+    "notIncluded": [
+      "❌ Meals",
+      "❌ Personal costs"
+    ],
+    "itinerary": [
+      {
+        "day": "1 Day",
+        "title": "Tours Available in Tashkent, Samarkand, Bukhara, Khiva",
+        "activities": [
+          "We will provide the itinerary after you choose your city or you can see that on the page of Uzbekistan City Tours."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Cooking&Baking Materclass of Uzbek natioal dishes(Samarkand)",
+    "price": "179",
+    "duration": "1 Day for 1–4 people",
+    "image": "/cooking.jpg",
+    "overview": "A hands-on cultural and culinary tour outside Samarkand. Visit the famous Bagizagan Wine Factory, shop for fresh groceries at a local market, and head to a village house to learn traditional bread baking and plov cooking from a local chef. Ideal for food lovers and culture seekers. Includes hotel pick-up and return to Samarkand by 17:00. \n  \n Additional: We have available local houses to stay in you can book that with agreement by us feel free to conversation we give best offers always :) ",
+    "included": [
+      "✅ Pick-up and drop-off (with prior agreement)",
+      "✅ Visit to Bagizagan Wine Factory",
+      "✅ Hands-on cooking experience with local chef"
+    ],
+    "notIncluded": [
+      "❌ Personal expenses",
+      "❌ Groceries to purchase unless we had agreement",
+      "❌ Wine tasting fees (optional)"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Bagizagan Wine & Culinary Adventure",
+        "activities": [
+          "Pick-up from your hotel in Samarkand",
+          "Drive 30 minutes out of the city towards Bagizagan",
+          "Visit and explore the Bagizagan Wine Factory",
+          "Shop for groceries at a local market",
+          "Arrive at a traditional village house",
+          "Meet the chef, baker, and host family",
+          "Prepare ingredients and cook plov with the chef",
+          "Make dough and bake traditional bread",
+          "Share the plov meal together",
+          "Wash and wrap baked bread to take home as a gift",
+          "Relax and enjoy free time in the village",
+          "Return to Samarkand city center by 17:00"
+        ]
+      }
+    ]
+  },
+  {
     "id": "3",
     "title": "Mountain Tours: Tashkent and Samarkand",
     "price": 370,
@@ -289,70 +353,6 @@
     ]
   },
   {
-    "id": "5",
-    "title": "Walking Tours in Every City of Uzbekistan (Solo & Groups)",
-    "price": 229,
-    "duration": "1 Day",
-    "image": "/valking.JPG",
-    "overview": "Tours in each city start from a meeting point. One day before the tour, our guides will contact you and provide details. You may ask any questions you’re interested in. Prices start from $50 per person. For couples or pairs: $80. Discount available for more than 2 people. If you're okay joining a group of random people we give you amazing offers.",
-    "included": [
-      "✅ Pick-up and drop-off (with prior agreement)",
-      "✅ Experienced guide service",
-      "✅ Bottled water during the tour"
-    ],
-    "notIncluded": [
-      "❌ Meals",
-      "❌ Personal costs"
-    ],
-    "itinerary": [
-      {
-        "day": "1 Day",
-        "title": "Tours Available in Tashkent, Samarkand, Bukhara, Khiva",
-        "activities": [
-          "We will provide the itinerary after you choose your city or you can see that on the page of Uzbekistan City Tours."
-        ]
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "title": "Cooking&Baking Materclass of Uzbek natioal dishes(Samarkand)",
-    "price": "179",
-    "duration": "1 Day for 1–4 people",
-    "image": "/cooking.jpg",
-    "overview": "A hands-on cultural and culinary tour outside Samarkand. Visit the famous Bagizagan Wine Factory, shop for fresh groceries at a local market, and head to a village house to learn traditional bread baking and plov cooking from a local chef. Ideal for food lovers and culture seekers. Includes hotel pick-up and return to Samarkand by 17:00. \n  \n Additional: We have available local houses to stay in you can book that with agreement by us feel free to conversation we give best offers always :) ",
-    "included": [
-      "✅ Pick-up and drop-off (with prior agreement)",
-      "✅ Visit to Bagizagan Wine Factory",
-      "✅ Hands-on cooking experience with local chef"
-    ],
-    "notIncluded": [
-      "❌ Personal expenses",
-      "❌ Groceries to purchase unless we had agreement",
-      "❌ Wine tasting fees (optional)"
-    ],
-    "itinerary": [
-      {
-        "day": "Day 1",
-        "title": "Bagizagan Wine & Culinary Adventure",
-        "activities": [
-          "Pick-up from your hotel in Samarkand",
-          "Drive 30 minutes out of the city towards Bagizagan",
-          "Visit and explore the Bagizagan Wine Factory",
-          "Shop for groceries at a local market",
-          "Arrive at a traditional village house",
-          "Meet the chef, baker, and host family",
-          "Prepare ingredients and cook plov with the chef",
-          "Make dough and bake traditional bread",
-          "Share the plov meal together",
-          "Wash and wrap baked bread to take home as a gift",
-          "Relax and enjoy free time in the village",
-          "Return to Samarkand city center by 17:00"
-        ]
-      }
-    ]
-  },
-   {
     "id": "7",
     "title": "Photo shooting in must see places of Samarkand",
     "price": "120",
