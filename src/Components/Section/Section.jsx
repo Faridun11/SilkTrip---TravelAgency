@@ -13,7 +13,7 @@ import './Section.scss';
 const data = [
   {
     id: 1,
-    image: '/registan.jpg', // public/registan.jpg
+    image: '/registan.jpg',
     title: 'Discover the Majesty of Registan',
     subtitle: 'Step into the heart of ancient Samarkand, where history and architecture unite.'
   },
@@ -51,9 +51,10 @@ const Section = () => {
     >
       <Swiper
         modules={[Autoplay, Pagination, Navigation]}
-        autoplay={{ delay: 3000 }}
+        autoplay={{ delay: 4000 }}
         loop={true}
         slidesPerView={1}
+        speed={1200}
         spaceBetween={0}
         pagination={{ clickable: true }}
         navigation={true}
