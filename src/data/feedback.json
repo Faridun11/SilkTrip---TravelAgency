@@ -1,47 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Linda Flawell",
-    "country": "New Zealand",
-    "tour": "Samarkand City Tour",
-    "comment": "Thank you Aziz for taking care of us. You are a wonderful friend in a foreign country. Sure your customers will like your service. We really enjoyed our time with you and appreciated your kindness. Wishing you all the best in your work and future plans.",
+    "name": "John Mar",
+    "comment": "I will refer you to our friends who wanted to visit Uzbekistan… We are very thankful for your assistance… Your knowledge and expertise about Uzbekistan has enriched us and fall us inlove more in Uzbek.. Thank you very much Mr Aziz. 🇺🇿😍👍🏻🙏❤️",
     "rating": 5,
-    "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    "avatar": "https://i.postimg.cc/wBFsjTmg/jhon.png"
   },
   {
     "id": 2,
-    "name": "Ahmed Samir",
-    "country": "Rebecca USA",
-    "tour": "Samarkand Day Tour",
-    "comment": "Aziz was by far the best tour guide we had in Uzbekistan. He’s a rare blend of someone who is extremely knowledgeable and extremely personable - he truly does tailor the tour to each individual, you never get the impression that he has any set “spiel” that he recites.",
+    "name": "Bernadette Fabian",
+    "comment": "We have spent a really wonderful and very special long day with Aziz in Tashkent. If you want a perfect guide I offer him. He helps in everything, bought our Afrosiyob tickets helped me repair my shoes, showed us very special places by his car, took us to restaurants and payed attention for all our wishes. He speaks English very well. Thank you so much Aziz for this beatifull day!!",
     "rating": 5,
-    "avatar": "https://randomuser.me/api/portraits/men/15.jpg"
+    "avatar": "https://i.postimg.cc/0QFG92T5/berhn.jpg"
   },
   {
     "id": 3,
-    "name": "Radek Pieńkowski",
-    "country": "India",
-    "tour": "24-Hour Samarkand Adventure",
-    "comment": "If you want to have care / trouble free Uzbekistan vacation – whether 24/7 guide or selected services – please contact Aziz. I am a seasoned world traveler, and I must say that Aziz exceeded all my expectations: so professional, punctual, helpful, with contacts throughout Uzbekistan – I am always very careful with my recommendations, but with Aziz – I guarantee that you will be 100% satisfied.",
+    "name": "Rebekka Chen",
+    "comment": "Aziz was by far the best tour guide we had in Uzbekistan. He’s a rare blend of someone who is extremely knowledgeable and extremely personable – he truly does tailor the tour to each individual, you never get the impression that he has any set “spiel” that he recites. For instance, he immediately picked up on the fact that me and my friend had an appreciation for the contemporary aspects of life in Tashkent and took us to not only the traditional historical sights.",
     "rating": 5,
-    "avatar": "https://randomuser.me/api/portraits/men/22.jpg"
+    "avatar": "https://i.postimg.cc/RhPBWyTh/cheklan.jpg"
   },
   {
     "id": 4,
-    "name": "John Mar",
-    "country": "Central Asia",
-    "tour": "Lakes and Border Tour",
-    "comment": "I will refer you to our friends who wanted to visit Uzbekistan... We are very thankful for your assistance... Your knowledge and expertise about Uzbekistan has enriched us and fall us in love more in Uzbek.. Thank you very much Mr Aziz.",
+    "name": "George Liu",
+    "comment": "Aziz helped me and my wife in every aspect of our visit to Tashkent. He picked us up and drove us to the airport, accompanied us on the city tour, purchased the speed train ride to the city of Samarkand and arrange a local tour guide to show us around. He even managed fo help us explore the real estate market in Tashkent. He is a warm person, reliable & trustworthy. I will recommend him to all of my friends who will come to visit Tashkent in the future.",
     "rating": 5,
-    "avatar": "https://randomuser.me/api/portraits/men/33.jpg"
+    "avatar": "https://i.postimg.cc/bNTTt8bL/Snimok-ekrana-2026-02-11-143645.png"
   },
   {
     "id": 5,
     "name": "Julia Aichinger",
-    "country": "Unforgettable trip",
-    "tour": "7 Lakes Tour",
     "comment": "We had a great trip to the Fergana Valley. The trip and the tour guide were organized by Aziz from Tashkent. Everything was perfect: the hotel, which was located in a silk factory, the excursions and also the organized tour guide. Aziz also always asked if everything was okay. That was very nice. Clear recommendation for Aziz from Bavaria, Germany!",
     "rating": 5,
-    "avatar": "https://randomuser.me/api/portraits/women/25.jpg"
+    "avatar": "https://i.postimg.cc/sx1V43xS/lueo.png"
+  },
+  {
+    "id": 6,
+    "name": "Radek Pieńkowski",
+    "comment": "If you want to have care / trouble free Uzbekistan vacation – whether 24/7 guide or selected services – please contact Aziz. I am a seasoned world traveler , and I must say that Aziz exceeded all my expectations: so professional , punctual , helpful, with contacts throughout Uzbekistan – I am always very careful with my recommendations, but with Aziz – I guarantee that you will be 100% satisfied . Aziz – thank you again for all that you have done for us during our exploration of your wonderful country !",
+    "rating": 5,
+    "avatar": "https://i.postimg.cc/CKmTP9WG/Snimok-ekrana-2026-02-11-144142.png"
   }
 ]
